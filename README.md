@@ -21,3 +21,10 @@ Run `npm install` for a all latest packages to be download from npm repository. 
 on npm and node setup and installation please refer
 https://nodejs.org/en/download/
 https://github.com/nodejs/node/blob/master/README.md
+
+## if you see the node_modules are added .please delete by followin below steps
+add 'node_modules' to .gitignore file
+execute
+•	git rm -r --cached node_modules
+•	git commit -m 'Remove the now ignored directory node_modules'
+•	git push origin master
