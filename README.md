@@ -24,7 +24,11 @@ https://github.com/nodejs/node/blob/master/README.md
 
 ## if you see the node_modules are added .please delete by followin below steps
 add 'node_modules' to .gitignore file
+<<<<<<< HEAD
 execute
+=======
+⎝	execute
+>>>>>>>  my Readme updated
 •	git rm -r --cached node_modules
 •	git commit -m 'Remove the now ignored directory node_modules'
 •	git push origin master
