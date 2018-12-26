@@ -1,3 +1,9 @@
 {
-    "type": "integer"
+
+            "$id": "#/properties/phonenumber",
+			"type": "integer",
+			"title": "The phonenumber Schema",
+			
 }
+
+   
