@@ -2,7 +2,7 @@
 
             "$id": "#/properties/phonenumber",
 			"type": "integer",
-			"title": "The phonenumber Schema",
+			"title": "The phonenumber Schema"
 			
 }
 
