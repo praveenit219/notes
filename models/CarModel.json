@@ -1,8 +1,8 @@
 {
-
-            "$id": "#/properties/phonenumber",
-			"type": "integer",
-			"title": "The phonenumber Schema"
+	
+		"$id": "#/properties/phonenumber",
+		"type": "integer",
+		"title": "The phonenumber Schema"
 			
 }
 
