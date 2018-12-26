@@ -1,9 +1,23 @@
 {
-	
-		"$id": "#/properties/phonenumber",
-		"type": "integer",
-		"title": "The phonenumber Schema"
-			
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$id": "http://ecquaria.com/subroot.json",
+  "type": "object",
+  "title": "The Root Schema",
+  "required": [
+    "phonenumber"
+  ],
+  "properties": {
+		"phonenumber": {
+			"$id": "#/properties/phonenumber",
+			"type": "integer",
+			"title": "The phonenumber Schema",
+			"default": "",
+			"examples": [
+			"123"
+		],
+		"pattern": "[0-9]"
+		}	
+	}		
 }
 
-   
