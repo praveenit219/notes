@@ -1,7 +1,7 @@
 {
   "definitions": {},
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "$id": "http://ecquaria.com/subroot.json",
+  "$id": "http://pheonix.com/subroot.json",
   "type": "object",
   "title": "The Root Schema",
   "required": [
